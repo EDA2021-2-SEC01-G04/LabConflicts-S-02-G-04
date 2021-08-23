@@ -30,3 +30,11 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 Estudiante 1: Juan Daniel Orozco
 
 Estudiante 2: Juan Sebastian Ojeda
+
+Datos de los integrantes del grupo:
+- Nombre: Juan Sebastian Ojeda Romero
+  Correo: j.ojeda@uniandes.edu.co
+  Codigo de estudiante: 202110289
+- Nombre: Juan Daniel Orozco Romero
+  Correo: j.orozcor@uniandes.edu.co
+  Codigo de estudiante: 202112353
